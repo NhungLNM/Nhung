@@ -1,3 +1,11 @@
 streamlit
 matplotlib
 seaborn
+pandas
+matplotlib
+numpy
+geopandas
+seaborn
+matplotlib.colors 
+cartopy
+cartopy.feature
