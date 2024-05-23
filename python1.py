@@ -7,7 +7,7 @@ sb.boxplot(data = df, x = 'day', y = 'tip')
 import pandas as pd
 
 # Replace 'C:/Users/USER/Desktop/athlete_events.csv' with the actual absolute path to your file
-athlete_events = pd.read_csv(r'"C:\Users\USER\Documents\athlete_events.xlam")
+athlete_events = pd.read_csv(r'C:\Users\USER\Documents\athlete_events.xlam')
 
 # Now you can work with the DataFrame 'athlete_events'
 print(athlete_events.head())  # Display the first few rows of the DataFrame
