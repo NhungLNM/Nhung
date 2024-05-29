@@ -8,3 +8,9 @@ cartopy
 openpyxl==3.1.2
 streamlit
 plotly
+streamlit==1.35.0
+pandas==2.2.2
+matplotlib==3.7.1
+openpyxl==3.1.2
+numpy==1.26.4
+geopandas==0.13.0
